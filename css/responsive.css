@@ -1,0 +1,448 @@
+
+
+/*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .pricing__item-bottom {
+        margin-bottom: 20px;
+        padding-left: 19px;
+      }
+      .yourClassName {
+        width: 100%;
+        padding: 5px; 
+        
+    }
+    .terms-page p {
+        margin: -48px;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: justify;
+        padding-top: 47px;
+      }
+   
+      
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .pricing__item-bottom {
+        margin-bottom: 20px;
+        padding-left: 19px;
+      }
+      .yourClassName {
+        width: 100%;
+        padding: 5px; 
+        
+    }
+    .terms-page p {
+        margin: -48px;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: justify;
+        padding-top: 47px;
+      }
+    
+     
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 0 20px;
+    }
+    .text-bg h1 {
+        padding-top: 0px;
+        font-size: 44px;
+        line-height: 61px;
+        padding-bottom: 18px;
+    }
+    .text-bg span {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .text-bg a {
+        margin-right: 5px;
+        padding: 10px 23px;
+        float: inherit;
+        max-width: 156px;
+    }
+    .Services .Services-box {
+        padding: 25px 15px;
+    }
+    .Services .Services-box h3 {
+        font-size: 17px;
+    }
+    .why .why-box {
+        padding: 40px 10px 20px 10px;
+    }
+    .why .why-box h3 {
+        font-size: 19px;
+    }
+    .bg {
+        max-width: 170px;
+    }
+    .main_form {
+        padding: 55px 25px;
+    }
+    .cont span {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .cont p {
+        padding: 0px 30px;
+        padding-bottom: 60px;
+    }
+    .cont {
+        margin-top: 47%;
+    }
+    .main_form {
+        margin-bottom: -92%;
+    }
+    .pricing__item-bottom {
+        margin-bottom: 20px;
+        padding-left: 19px;
+      }
+      .yourClassName {
+        width: 100%;
+        padding: 5px; 
+        
+    }
+    .crown{
+        margin-left: -48px;
+    }
+      
+    .terms-page p {
+        margin: -48px;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: justify;
+        padding-top: 47px;
+      }
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .mean-container .mean-bar {
+        margin-top: 0px;
+    }
+    .text-bg a {
+        float: inherit;
+        margin-bottom: 30px;
+    }
+    .titlepage h2 {
+        font-size: 36px;
+    }
+    .web_hosting p {
+        padding: 40px 0px;
+    }
+    .bg {
+        margin-bottom: 30px;
+    }
+    .cont p {
+        padding: 0px 30px;
+        padding-bottom: 60px;
+    }
+    .cont {
+        margin-top: 50%;
+    }
+    .main_form {
+        margin-bottom: -58%;
+    }
+    .cont span {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .navigation.navbar {
+        float: right;
+        display: inherit !important;
+        padding: 0;
+        width: 100%;
+    }
+    .navigation .navbar-collapse {
+        background: #fff;
+        padding: 20px;
+        margin-top: 56px;
+        position: absolute;
+        width: 100%;
+        margin-right: 20px;
+        z-index: 999;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 10px 0;
+        color: #000;
+    }
+    .navigation.navbar-dark .navbar-toggler {
+        border-color: #fff;
+        float: right;
+    }
+    .gallery{
+      flex-direction: column;
+        left: calc(50% - 330px);
+    }
+    .pricing__item-bottom {
+        margin-bottom: 20px;
+        padding-left: 19px;
+      }
+      .yourClassName {
+        width: 100%;
+        padding: 5px; 
+        
+    }
+    .crown{
+        margin-left: -48px;
+    }
+    .terms-page p {
+        margin: -48px;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: justify;
+        padding-top: 47px;
+      }
+      
+}
+
+@media (max-width: 575px) {
+     .btn-login {
+        background-color: #c59b2b;
+        padding: 0px 6px;
+        border-radius: 10px;
+    } 
+    .header {
+        padding: 0px 0px 0px 0px;
+    }
+    .logo {
+        text-align: center !important;
+        padding-bottom: 25px;
+        float: left;
+    }
+    .text-bg h1 {
+        font-size: 41px;
+        line-height: 55px;
+        padding-bottom: 18px;
+    }
+    .text-bg a {
+        float: inherit;
+        margin-bottom: 30px;
+    }
+    .text-bg span {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .titlepage h2 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .web_hosting p {
+        padding: 40px 0px;
+    }
+    .bg {
+        margin-bottom: 30px;
+    }
+    .cont h3 {
+        font-size: 30px;
+    }
+    .cont p {
+        padding: 0px 0px;
+        padding-bottom: 60px;
+    }
+    .cont span {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .cont {
+        margin-top: 89%;
+    }
+    .main_form {
+        margin-bottom: -102%;
+        padding: 55px 15px;
+    }
+    .navigation.navbar {
+        float: right;
+        display: inherit !important;
+        padding: 0;
+        width: 100%;
+        margin-top: -70px;
+    }
+    .navigation .navbar-collapse {
+        background: #fff;
+        padding: 20px;
+        margin-top: 56px;
+        position: absolute;
+        width: 100%;
+        margin-right: 20px;
+        z-index: 999;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 10px 0;
+        color: #000;
+    }
+    .navigation.navbar-dark .navbar-toggler {
+        border-color: #fff;
+        float: right;
+    }
+    .pricing__item-bottom {
+        margin-bottom: 20px;
+        padding-left: 19px;
+      }
+      .yourClassName {
+        width: 100%;
+       padding: 5px; 
+        
+    }
+    .crown{
+        margin-left: -48px;
+    }
+    /* .terms-page p {
+        margin: -48px;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: justify;
+        padding-top: 47px;
+      } */
+     
+}
+
+
+@media (max-width: 320px) {
+    .gallery {
+        flex-direction: column;
+        left: 0;
+    }
+
+    .card:not(:first-child) {
+        margin-left: 0;
+    }
+
+    .card {
+        margin-bottom: 2px;
+    }
+
+    .footer__about-moto {
+        font-size: 14px;
+        /* padding-top: 23px; */
+      }
+      
+    .foot{
+        margin-top: 300px;
+
+      }
+
+      
+      .teams h2 {
+        font-size: 34px;
+        color: white;
+        font-weight: bold;
+      }
+      .trading .platform__name {
+        font-size: 11px;
+        font-weight: 700;
+        line-height: 2.86;
+        padding-top: 32px;
+        color: var(--color-secondary);
+        font-family: MuseoSansCyrl500, sans-serif;
+      }
+      .section-header p {
+        font-weight: 400;
+        color: #fff;
+        text-align: center;
+      }
+      .text-bg h1 {
+        color: #fff;
+    font-size: 33px;
+    line-height: 34px;
+    padding-bottom: 25px;
+    font-weight: bold;
+    padding-right: 52px;
+    padding-top: 49px;
+    margin-left: -66px;
+      }
+
+      .pricing__item-bottom {
+        margin-bottom: 20px;
+        padding-left: 19px;
+      }
+      
+      .yourClassName {
+        width: 100%;
+       padding: 5px; 
+        
+    }
+    /* .terms-page p {
+        margin: -48px;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 24px;
+        text-align: justify;
+        padding-top: 47px;
+      } */
+
+      /* .terms-content li {
+        padding-top: 45px;
+        margin: -43px !important */
+      
+   
+ 
+
+/* .terms-content h2{
+    margin: 11px ;
+    padding-top: 49px !important */
+   
+
+
+.crown{
+    margin-left: -48px;
+}
+
+
+    .terms-page {
+      padding: 60px 20px; /* Adjust padding as needed */
+    }
+  
+    .terms-page h1 {
+      font-size: 28px; /* Adjust font size as needed */
+      padding-bottom: 20px; /* Adjust padding as needed */
+    }
+  
+    .terms-content {
+      padding-top: 40px; /* Adjust padding as needed */
+    }
+  
+    .terms-content h2 {
+      padding-top: 20px; /* Adjust padding as needed */
+    }
+  
+    .terms-content p {
+      font-size: 14px; /* Adjust font size as needed */
+    }
+  
+    .terms-content ul {
+      font-size: 14px; /* Adjust font size as needed */
+    }
+  }
+  
+
+
+
+
+
+        
+      
+    
+      
+           
+   
+    
+
+   
+
+
+
+
+
